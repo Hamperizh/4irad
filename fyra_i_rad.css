@@ -1,0 +1,32 @@
+html,body {
+    background-color: grey;
+}
+
+table {
+    background-color: rgb(2, 0, 128);
+    margin-bottom: 10px;
+}
+td {
+    height: 70px;
+    width: 70px;
+    border: 10px solid rgb(2, 0, 128);
+}
+.coin {
+    height: 70px;
+    width: 70px;
+    border: 2px solid #000000;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.Red {
+    background-color: red !important;
+}
+
+.Yellow {
+    background-color: yellow !important;
+}
+
+tr {
+    background-color: black;
+}
